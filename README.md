@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedeldeeb9&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedeldeeb9" /> </p>
 
-- 🌱 I’m currently learning **Microservices, Spring Cloud, Devops,**
+- 🌱 I’m currently learning **Microservices, Spring Cloud, Devops**
 
-- 💬 Ask me about **Java, C++, Spring Framework, Angular, Hibernate, Database**
+- 💬 Ask me about **Java, C++, Spring Framework, Angular, Hibernate, Database and TypeScript**
 
 - 📫 How to reach me **ahmedshabanfff@gmail.com**
 
