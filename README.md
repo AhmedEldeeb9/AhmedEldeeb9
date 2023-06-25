@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **ahmedshabanfff@gmail.com**
 
-- 📄 Know about my experiences <a href="https://linkedin.com/in/ahmed eldeeb" target="blank"><img align="center"  alt="ahmed eldeeb Resume" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
